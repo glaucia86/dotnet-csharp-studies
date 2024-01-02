@@ -2,6 +2,8 @@
 
 Repository created to store all the studies and projects developed in dotnet and C#.
 
+[BIT-DOTNET.png](https://postimg.cc/1g2GvTC7)
+
 ## 🚀 Resources Used 
 
 * **[Visual Studio](https://visualstudio.microsoft.com/?WT.mc_id=javascript-0000-gllemos)**
