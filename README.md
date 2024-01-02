@@ -2,7 +2,7 @@
 
 Repository created to store all the studies and projects developed in dotnet and C#.
 
-[BIT-DOTNET.png](https://postimg.cc/1g2GvTC7)
+[![BIT-DOTNET.png](https://i.postimg.cc/sXDTgCpz/BIT-DOTNET.png)](https://postimg.cc/1g2GvTC7)
 
 ## 🚀 Resources Used 
 
